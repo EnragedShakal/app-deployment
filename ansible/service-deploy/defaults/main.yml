@@ -1,0 +1,4 @@
+---
+# defaults file for systemd
+app_repo_url: https://github.com/bhavenger/skillbox-diploma.git
+app_workdir: /var/app
